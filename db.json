@@ -3,7 +3,7 @@
 {  
     "45": {  
         "Schritt": 150,
-        "Temp": "Admin",   
+        "Temp": "ada",   
         "location": "USA"
     }  
 }
@@ -19,8 +19,8 @@
             "DurchMin": 600,
             "DurchMax": "650",
             "DrehMin": "1000",
-            "DrehMax": "1000"
-            "UMin": "10"
+            "DrehMax": "1000",
+            "UMin": "10",
             "UMax": "12,5"
          },
          {  
@@ -30,8 +30,8 @@
             "DurchMin": 600,
             "DurchMax": "650",
             "DrehMin": "1000",
-            "DrehMax": "1000"
-            "UMin": "10"
+            "DrehMax": "1000",
+            "UMin": "10",
             "UMax": "12,5"
          }
     ]  
@@ -47,8 +47,8 @@
             "DurchMin": 500,
             "DurchMax": "550",
             "DrehMin": "1000",
-            "DrehMax": "1000"
-            "UMin": "10"
+            "DrehMax": "1000",
+            "UMin": "10",
             "UMax": "14"
          },
          {  
@@ -58,8 +58,8 @@
             "DurchMin": 500,
             "DurchMax": "550",
             "DrehMin": "1000",
-            "DrehMax": "1000"
-            "UMin": "10"
+            "DrehMax": "1000",
+            "UMin": "10",
             "UMax": "15"
          }
     ]  
