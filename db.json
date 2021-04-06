@@ -1,10 +1,10 @@
 {  
  "2802339": [
          {  
-            "Schritt": 150,
+            "id": 150,
             "TempMin": "10",   
             "TempMax": "60",
-            "DurchMin": 600,
+            "DurchMin": "600",
             "DurchMax": "650",
             "DrehMin": "1000",
             "DrehMax": "1000",
@@ -12,10 +12,10 @@
             "UMax": "12,5"
          },
          {  
-            "Schritt": 180,
+            "id": 180,
             "TempMin": "10",   
             "TempMax": "60",
-            "DurchMin": 600,
+            "DurchMin": "600",
             "DurchMax": "650",
             "DrehMin": "1000",
             "DrehMax": "1000",
@@ -28,7 +28,7 @@
             "Schritt": 150,
             "TempMin": "20",   
             "TempMax": "65",
-            "DurchMin": 500,
+            "DurchMin": "500",
             "DurchMax": "550",
             "DrehMin": "1000",
             "DrehMax": "1000",
@@ -39,7 +39,7 @@
             "Schritt": 180,
             "TempMin": "20",   
             "TempMax": "65",
-            "DurchMin": 500,
+            "DurchMin": "500",
             "DurchMax": "550",
             "DrehMin": "1000",
             "DrehMax": "1000",
