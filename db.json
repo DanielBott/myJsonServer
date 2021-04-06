@@ -1,31 +1,66 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+//JSON Object Auftrag
+ 
+{  
+    "45": {  
+        "Schritt": 150,
+        "Temp": "Admin",   
+        "location": "USA"
+    }  
+}
+ 
+//JSON Array Auftrag
+ 
+{  
+"2802339": [
+         {  
+            "Schritt": 150,
+            "TempMin": "10",   
+            "TempMax": "60",
+            "DurchMin": 600,
+            "DurchMax": "650",
+            "DrehMin": "1000",
+            "DrehMax": "1000"
+            "UMin": "10"
+            "UMax": "12,5"
+         },
+         {  
+            "Schritt": 180,
+            "TempMin": "10",   
+            "TempMax": "60",
+            "DurchMin": 600,
+            "DurchMax": "650",
+            "DrehMin": "1000",
+            "DrehMax": "1000"
+            "UMin": "10"
+            "UMax": "12,5"
+         }
+    ]  
+}
+
+
+{  
+"2802339": [
+         {  
+            "Schritt": 150,
+            "TempMin": "20",   
+            "TempMax": "65",
+            "DurchMin": 500,
+            "DurchMax": "550",
+            "DrehMin": "1000",
+            "DrehMax": "1000"
+            "UMin": "10"
+            "UMax": "14"
+         },
+         {  
+            "Schritt": 180,
+            "TempMin": "20",   
+            "TempMax": "65",
+            "DurchMin": 500,
+            "DurchMax": "550",
+            "DrehMin": "1000",
+            "DrehMax": "1000"
+            "UMin": "10"
+            "UMax": "15"
+         }
+    ]  
 }
