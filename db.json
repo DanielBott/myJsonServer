@@ -1,15 +1,3 @@
-//JSON Object Auftrag
- 
-{  
-    "45": {  
-        "Schritt": 150,
-        "Temp": "ada",   
-        "location": "USA"
-    }  
-}
- 
-//JSON Array Auftrag
- 
 {  
 "2802339": [
          {  
