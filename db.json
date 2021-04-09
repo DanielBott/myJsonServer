@@ -1,7 +1,7 @@
 {  
  "2802339": [
          {  
-            "id": 150,
+            "Schritt": 150,
             "TempMin": "10",   
             "TempMax": "60",
             "DurchMin": "600",
@@ -12,7 +12,7 @@
             "UMax": "12,5"
          },
          {  
-            "id": 180,
+            "Schritt": 180,
             "TempMin": "10",   
             "TempMax": "60",
             "DurchMin": "600",
