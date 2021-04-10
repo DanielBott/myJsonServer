@@ -1,7 +1,7 @@
 {  
  "2802339": [
          {  
-            "Schritt": 150,
+            "Schritt": "150",
             "TempMin": "10",   
             "TempMax": "60",
             "DurchMin": "600",
@@ -12,7 +12,7 @@
             "UMax": "12,5"
          },
          {  
-            "Schritt": 180,
+            "Schritt": "180",
             "TempMin": "10",   
             "TempMax": "60",
             "DurchMin": "600",
@@ -25,7 +25,7 @@
     ],
 "2339444": [
          {  
-            "Schritt": 150,
+            "Schritt": "150",
             "TempMin": "20",   
             "TempMax": "65",
             "DurchMin": "500",
@@ -36,7 +36,7 @@
             "UMax": "14"
          },
          {  
-            "Schritt": 180,
+            "Schritt": "180",
             "TempMin": "20",   
             "TempMax": "65",
             "DurchMin": "500",
