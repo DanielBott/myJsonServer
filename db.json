@@ -21,6 +21,17 @@
             "DrehMax": "1000",
             "UMin": "10",
             "UMax": "12,5"
+         },
+         {  
+            "Schritt": "190",
+            "TempMin": "30",   
+            "TempMax": "65",
+            "DurchMin": "600",
+            "DurchMax": "630",
+            "DrehMin": "1000",
+            "DrehMax": "1000",
+            "UMin": "10",
+            "UMax": "12,5"
          }
     ],
 "2339444": [
